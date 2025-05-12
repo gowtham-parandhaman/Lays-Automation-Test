@@ -1,0 +1,9 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Lays Test Suite">
+  <test name="Lays Test">
+    <classes>
+      <class name="tests.HomeTest"/>
+    </classes>
+  </test>
+</suite>
